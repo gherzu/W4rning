@@ -18,7 +18,7 @@ import modelo.*;
 
 /**
  *
- * @author Bárbara Viridiana Lara Espinosa
+ * @author Gerardo
  */
 public class ComentariosControlador extends HttpServlet {
 

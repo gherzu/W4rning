@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Bárbara Viridiana Lara Espinosa
+ * @author Gerardo
  */
 public class MiPrimerServlet extends HttpServlet {
 

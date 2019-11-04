@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Bárbara Viridiana Lara Espinosa
+ * @author Gerardo
  */
 public class Laboratorio9 extends Application {
     

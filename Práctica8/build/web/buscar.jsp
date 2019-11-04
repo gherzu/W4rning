@@ -1,6 +1,6 @@
 <%-- 
     Document   : buscar
-    Author     : Bárbara Viridiana Lara Espinosa
+    Author     : Gerardo
 --%>
 
 <%@page import="modelo.ComentariosPOJO"%>

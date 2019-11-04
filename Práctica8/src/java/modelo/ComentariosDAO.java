@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *
- * @author Bárbara Viridiana Lara Espinosa
+ * @author Gerardo
  */
 public class ComentariosDAO {
     private Connection conexion;

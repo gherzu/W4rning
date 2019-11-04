@@ -1,6 +1,6 @@
 <%-- 
     Document   : resultados
-    Author     : Bárbara Viridiana Lara Espinosa
+    Author     : Gerardo
 --%>
 <%@page import="Modelo.Persona"%>
 <%

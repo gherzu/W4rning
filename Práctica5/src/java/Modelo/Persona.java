@@ -7,7 +7,7 @@ package Modelo;
 
 /**
  *
- * @author Bárbara Viridiana Lara Espinosa
+ * @author Gerardo
  */
 public class Persona {
     private String nombre;

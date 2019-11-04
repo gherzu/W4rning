@@ -7,7 +7,7 @@ package modelo;
 
 /**
  *
- * @author Bárbara Viridiana Lara Espinosa
+ * @author Gerardo
  */
 public class ComentariosPOJO {
     private String nombre;

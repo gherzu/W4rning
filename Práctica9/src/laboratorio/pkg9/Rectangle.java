@@ -7,7 +7,7 @@ package laboratorio.pkg9;
 
 /**
  *
- * @author Bárbara Viridiana Lara Espinosa
+ * @author Gerardo
  */
 public class Rectangle implements Shape{
     
